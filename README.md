@@ -18,7 +18,8 @@ USB Cable
 
  ![image](https://github.com/user-attachments/assets/abeabf63-f321-471e-a991-3adaa9043a8b)
 
- ![Uploading Raspberry Pi Pin.jpg…]()
+![Raspberry Pi Pin](https://github.com/user-attachments/assets/05f85a8d-6d49-4493-810e-2d491212eb64)
+
 
  
  
